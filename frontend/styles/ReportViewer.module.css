@@ -1,0 +1,27 @@
+.reportViewerContainer {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .reportContent {
+    margin-top: 20px;
+  }
+  
+  .downloadButton {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .downloadButton:hover {
+    background-color: #0056b3;
+  }
+  

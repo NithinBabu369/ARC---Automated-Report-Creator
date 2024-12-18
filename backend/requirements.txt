@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+groq
+langchain
+chromadb
+sentence-transformers
+reportlab
+python-docx

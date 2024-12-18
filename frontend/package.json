@@ -1,0 +1,22 @@
+{
+  "name": "arc-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-spring/web": "^9.7.5",
+    "axios": "^1.x",
+    "framer-motion": "^6.3.0",
+    "next": "13.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "tailwindcss": "^3.x"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.x",
+    "postcss": "^8.x"
+  }
+}

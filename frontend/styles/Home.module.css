@@ -1,0 +1,5 @@
+/* Styling for Home Page */
+.heading {
+    @apply text-center text-2xl font-bold underline mb-4;
+  }
+  
